@@ -1,6 +1,7 @@
 streamlit
-Pandas
-BeautifulSoup4
-lxml
+pandas
+numpy
+requests
+os
 yfinance
-matplotlib
+plotly.graph_objects
